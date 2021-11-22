@@ -1,0 +1,97 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold 200em;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color:rgb(53, 123, 166);
+    margin: 30px;
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+h2 {
+    color:white;
+    padding-left: 25px;
+    display: inline-block;
+}
+.navbar,
+.navbar li {
+    color: white;
+    display: inline-block;
+    padding: 17px 32px;
+    font-size: larger;
+    list-style-type: none;
+}
+div.bluerow {
+    height: 70px;
+    padding-bottom: 20px;
+    width: auto;
+    background-color:rgb(53, 123, 166);
+    color: white;
+    text-decoration: none;
+}
+div.whiterow {
+    height: 440px;
+    width: auto;
+}
+p {
+    margin: 20px;
+    font-size: large
+    ;
+}
+#bottomrow {
+    display: block;
+    height: 200px;
+}
+strong {
+    color: rgb(53, 123, 166);
+}
+#membership {
+    color: orange;
+    border: 3px solid orange;
+    font-size: large;
+    font-weight: normal;
+    margin-left: 20px;
+    padding-top: 21px;
+    height: 40px;
+}
+div.btn {
+  display:inline-block;
+  color: white;
+  border-radius: 10px 10px 10px 10px;
+  text-align: center;
+  font-size:larger;
+  font-weight: bold;
+  padding-top: 25px;
+  height: 47px;
+  width: 200px;
+  margin: 0px 20px;
+    }
+#instagram {
+  background-color: blueviolet;
+}
+#facebook {
+    background-color: cornflowerblue;
+}
+#youtube {
+    background-color: crimson;
+   }
+a:hover {
+    color:rgb(53, 123, 166);
+}
+.header--features {
+    margin-top: 30px;
+}
+.list--options {
+margin-left: 20px;
+margin-top: 20px;
+font-weight: bold;
+list-style-type: none;
+}
+.list--gyms {
+margin-left: 40px;
+list-style-type: none;
+font-weight:normal;
+}
